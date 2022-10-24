@@ -19,4 +19,4 @@ function Tarea({ id, text, completed, completeHomework, deleteHomework }) {
   );
 }
 
-export default Tarea;
+export default Tarea; 
